@@ -1,4 +1,4 @@
-# PROJECT-VALEDICTORIAN
+# PROJECT VALEDICTORIAN
 Notes Vault of soon-to-be valedictorian!!
 
 
