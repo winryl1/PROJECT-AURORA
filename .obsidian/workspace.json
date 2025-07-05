@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NOTES/AP MATH NOTES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AP MATH NOTES"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "469c57c3db459d11",
+  "active": "ccf1f7367d3d8440",
   "lastOpenFiles": [
+    "README.md",
+    "NOTES/AP MATH NOTES.md",
     "NOTES",
     "MAIN/README.md",
     "MAIN",
