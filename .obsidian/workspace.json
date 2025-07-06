@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/AP MATH NOTES.md",
+                "file": "SEMINARY (07-06-2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AP MATH NOTES"
+              "title": "SEMINARY (07-06-2025)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -171,8 +172,9 @@
   },
   "active": "ccf1f7367d3d8440",
   "lastOpenFiles": [
-    "README.md",
     "NOTES/AP MATH NOTES.md",
+    "SEMINARY (07-06-2025).md",
+    "README.md",
     "NOTES",
     "MAIN/README.md",
     "MAIN",
