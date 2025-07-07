@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME PAGE.md",
+                "file": "School/Pre-Cal Notes/Functions/Functions & Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME PAGE"
-            }
-          },
-          {
-            "id": "450eded0761fce0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Pre-Cal Notes/Functions/Piecewise Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Piecewise Functions"
-            }
-          },
-          {
-            "id": "8754fedbded32ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Pre-Cal Notes/Functions/Composite Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Composite Functions"
+              "title": "Functions & Relations"
             }
           }
         ]
@@ -202,6 +174,7 @@
   "lastOpenFiles": [
     "School/Pre-Cal Notes/Pre-Cal Overview.md",
     "HOME PAGE.md",
+    "Scripture Study/D&C/D&C Overview.md",
     "School/Pre-Cal Notes/Functions/Piecewise Functions.md",
     "School/Pre-Cal Notes/Functions/Functions & Relations.md",
     "School/Pre-Cal Notes/Functions",
@@ -213,7 +186,6 @@
     "Scripture Study/BoM/BoM Overview.md",
     "Scripture Study/Bible/Bible Overview.md",
     "School/Gen Chem Notes/Gen Chem Overview.md",
-    "Scripture Study/D&C/D&C Overview.md",
     "Scripture Study/D&C/D&C 77-80.md",
     "Scripture Study/Bible",
     "Scripture Study/D&C",
