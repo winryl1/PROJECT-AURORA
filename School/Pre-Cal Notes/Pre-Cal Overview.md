@@ -1,3 +1,3 @@
-[[Functions]]
+[[Functions & Relations]]
 [[Trigonometry]]
 [[Conic Sections]]
