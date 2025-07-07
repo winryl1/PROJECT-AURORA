@@ -7,6 +7,6 @@
 - [[Bible Overview]]
 - [[BoM Overview]]
 - [[D&C Overview]]
-
+ 
 # Progress Panel
 
