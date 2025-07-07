@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "92796dc1489da261",
@@ -198,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "469c57c3db459d11",
+  "active": "8754fedbded32ffa",
   "lastOpenFiles": [
     "School/Pre-Cal Notes/Functions & Relations.md",
     "School/Pre-Cal Notes/Piecewise Functions.md",
