@@ -30,11 +30,11 @@ $$
 $$
 (1,0), (0,1), (-1,0), (0,-1),
 $$
-- [I] In this example, we see that the **domain "0"** has 2 different ranges. 
 
 | Domain (X) | Range (Y) |
 | ---------- | --------- |
 | -1         | 0         |
 | 0          | 1, -1     |
 | 1          | 0         |
+- [I] In this example, we see that the **domain "0"** has 2 different ranges. 
 - [c] Therefore, this set of relations is **NOT a function**. 
