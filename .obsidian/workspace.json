@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME PAGE.md",
+                "file": "School/Pre-Cal Notes/Pre-Cal Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME PAGE"
+              "title": "Pre-Cal Overview"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "abeb5f3df58c09d7",
   "lastOpenFiles": [
+    "School/Pre-Cal Notes/Functions.md",
     "School/Pre-Cal Notes/Pre-Cal Overview.md",
-    "School/Gen Math/Gen Math Overview.md",
     "HOME PAGE.md",
+    "School/Gen Math/Gen Math Overview.md",
     "Scripture Study/BoM/BoM Overview.md",
     "Scripture Study/Bible/Bible Overview.md",
     "School/Gen Chem Notes/Gen Chem Overview.md",
