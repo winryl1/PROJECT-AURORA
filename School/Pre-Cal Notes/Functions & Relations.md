@@ -21,6 +21,10 @@ $$
 
 - [I] Using [[Functions & Relations#^ex1-1]], we can see that each domain has **EXACTLY ONE** range.
 - [p] Therefore, this set of relations **is a function.**
+---
+
+> [!information]- 
+> The basic form of functions is **y=x**. But they can also be written as f(x)=x, where **"f(x)" is basically just y.** t
 
 ---
 > [!important]- IMPORTANT!
