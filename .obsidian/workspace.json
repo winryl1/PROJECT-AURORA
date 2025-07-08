@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Pre-Cal Notes/Functions/Functions & Relations.md",
+                "file": "School/Pre-Cal Notes/Pre-Cal Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions & Relations"
+              "title": "Pre-Cal Overview"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "92796dc1489da261",
@@ -172,11 +171,11 @@
   },
   "active": "abeb5f3df58c09d7",
   "lastOpenFiles": [
-    "School/Pre-Cal Notes/Pre-Cal Overview.md",
     "HOME PAGE.md",
+    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
+    "School/Pre-Cal Notes/Pre-Cal Overview.md",
     "Scripture Study/D&C/D&C Overview.md",
     "School/Pre-Cal Notes/Functions/Piecewise Functions.md",
-    "School/Pre-Cal Notes/Functions/Functions & Relations.md",
     "School/Pre-Cal Notes/Functions",
     "School/Pre-Cal Notes/Functions/Composite Functions.md",
     "School/Resources",
