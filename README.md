@@ -5,15 +5,6 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 
 ---
 
-## 📑 Table of Contents
-- [Subjects Covered](#-subjects-covered)
-- [Why I Made This](#-why-i-made-this)
-- [Pre-requisites](#️-pre-requisites)
-- [Installation & Usage](#-installation--usage)
-- [Contact](#-contact)
-
----
-
 ## 🔖 Subjects Covered
 - Pre-Cal
 - Gen Chem
@@ -35,7 +26,7 @@ I wanted a space to share knowledge and help others (and myself) revise and stay
 
 ## ✍🏻 Installation & Usage
 To install and use the notes:
-1. Download latest ZIP file from [releases](https://github.com/winryl1/PROJECT-AURORA/releases)
+1. Download latest ZIP file from [![releases](https://img.shields.io/github/v/release/winryl1/PROJECT-AURORA?label=Latest%20Release)](https://github.com/winryl1/PROJECT-AURORA/releases)
 2. Extract the ZIP file
 3. Open Obsidian and select "open folder as vault"
 4. Select the extracted zip folder
