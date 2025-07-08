@@ -6,6 +6,8 @@
   </a>
 </p>
 
+> “Knowledge is power. Knowledge shared is power multiplied.” 
+
 
 # 📚 PROJECT AURORA
 
@@ -51,7 +53,4 @@ If you have any questions, feel free to email me or drop a message at my faceboo
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="17" />  Facebook: <a href="https://www.facebook.com/kristof.troy.tagab">Add Friend Me!</a>
 
 
----  
-
-> “Knowledge is power. Knowledge shared is power multiplied.” 
 
