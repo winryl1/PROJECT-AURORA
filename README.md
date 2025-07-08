@@ -24,7 +24,7 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 
 ---
 
-## 🤔 Why I Made This?
+## ❓ Why I Made This?
 
 I wanted a space to share knowledge and help others (and myself) revise and stay organized. Maybe these notes can help you too!
 
