@@ -20,8 +20,7 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 - Pre-Cal
 - Gen Chem
 
-⚠️ NOTE
-This project is **strictly** for **STEM STUDENTS**
+⚠️ NOTE: This project is **strictly** for **STEM STUDENTS**
 
 ---
 
