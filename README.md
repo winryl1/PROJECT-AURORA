@@ -1,5 +1,4 @@
-![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/c49e5ef2-5f8b-4690-aa78-179c926d71c5)
-
+![Kurzgesagt_Quasar-643846-mobiles24](https://github.com/user-attachments/assets/8ba21bd2-17c0-47b0-9c79-92b31f0ee532)
 # 📚 PROJECT AURORA
 
 Welcome to my personal collection of study notes! I'm a new student and I’ll be updating this repo **weekly** with clear, concise notes. Feel free to browse, learn, and contribute!
