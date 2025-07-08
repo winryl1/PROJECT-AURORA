@@ -48,7 +48,7 @@ If you have any questions, feel free to email me or drop a message at my faceboo
 
 📧 Email: notegodz69xd@gmail.com
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="10" /> Facebook: <a href="https://www.facebook.com/kristof.troy.tagab">add friend me</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="15" /> Facebook: <a href="https://www.facebook.com/kristof.troy.tagab">add friend me</a>
 
 
 ---  
