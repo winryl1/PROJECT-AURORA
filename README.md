@@ -25,6 +25,7 @@ I wanted a space to share knowledge and help others (and myself) revise and stay
 ---
 
 ## 🖥️ Installation
+To install and use the notes:
 1. Download latest ZIP files from [releases](https://github.com/winryl1/PROJECT-AURORA/releases)
 2. Extract the ZIP file
 3. Go to Obisidian and ...
