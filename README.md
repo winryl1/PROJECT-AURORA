@@ -47,7 +47,9 @@ And you're done! Enjoy and happy studying!!
 If you have any questions, feel free to email me or drop a message at my facebook! You are also welcome to contribute and submit your own notes or suggestions.
 
 📧 Email: notegodz69xd@gmail.com
-![vecteezy_facebook-logo-png-facebook-logo-transparent-png-facebook_23986592](https://github.com/user-attachments/assets/79127978-633b-420e-9b5c-51515109dee1) Facebook: [add friend me](https://www.facebook.com/kristof.troy.tagab)
+<img src="https://github.com/user-attachments/assets/0013fa28-6829-4689-a023-80c3f4654aba" alt="Facebook" width="20" />
+Facebook: <a href="https://www.facebook.com/kristof.troy.tagab">add friend me</a>
+
 
 ---  
 
