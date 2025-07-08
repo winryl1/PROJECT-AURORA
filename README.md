@@ -8,7 +8,7 @@
 
 > “Knowledge is power. Knowledge shared is power multiplied.” 
 
-
+---
 # 📚 PROJECT AURORA
 
 Welcome to my personal collection of study notes! I'm a new student and I’ll be updating this repo **weekly** with clear, concise notes. Feel free to browse, learn, and contribute!
