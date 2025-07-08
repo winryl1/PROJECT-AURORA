@@ -9,7 +9,6 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 - Pre-Cal
 - Gen Chem
 
-
 _Note: This project is only for STEM students_
 
 ---
@@ -20,24 +19,22 @@ I wanted a space to share knowledge and help others (and myself) revise and stay
 
 ---
 
-## ![Upload<svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" enable-background="new 0 0 48 48">
-    <g fill="#1565C0">
-        <polygon points="24,37.1 13,24 35,24"/>
-        <rect x="20" y="4" width="8" height="4"/>
-        <rect x="20" y="10" width="8" height="4"/>
-        <rect x="20" y="16" width="8" height="11"/>
-        <rect x="6" y="40" width="36" height="4"/>
-    </g>
-</svg>
-ing installation.svg…]()
+## 🖥️ Pre-requisites
+- Must have latest Obsidian version (https://obsidian.md/)
 
 ---
 
-## 🤝 Contributions
+## 🖥️ Installation
+1. Download latest ZIP files from "releases"
+2. Extract the ZIP file
+3. Go to Obisidian and ...
+4. 
 
+---
+## 🤝 Contributions
 You're welcome to submit your own notes or suggestions. Just email me at notegodz69xd@protonmail.com
 
 ---
 
-> “Sharing knowledge is the most generous thing a student can do.” – Me (probably)
+> “Knowledge is power. Knowledge shared is power multiplied.” 
 
