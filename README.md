@@ -5,6 +5,15 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 
 ---
 
+## 📑 Table of Contents
+- [Subjects Covered](#-subjects-covered)
+- [Why I Made This](#-why-i-made-this)
+- [Pre-requisites](#️-pre-requisites)
+- [Installation & Usage](#-installation--usage)
+- [Contact](#-contact)
+
+---
+
 ## 🔖 Subjects Covered
 - Pre-Cal
 - Gen Chem
@@ -39,9 +48,6 @@ And you're done! Enjoy and happy studying!!
 If you have any questions, feel free to email me at notegodz69xd@protonmail.com or drop a message at my facebook! You are also welcome to contribute and submit your own notes or suggestions.
 
 ---  
-> ✨ *Student-made. Weekly updated.*  
----
-
 
 > “Knowledge is power. Knowledge shared is power multiplied.” 
 
