@@ -13,6 +13,8 @@
 
 Welcome to my personal collection of study notes! I'm a new student and I’ll be updating this repo **weekly** with clear, concise notes. Feel free to browse, learn, and contribute!
 
+> ⚠️ NOTE: This project is **strictly** for **STEM STUDENTS**
+
 
 ---
 
@@ -20,7 +22,6 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 - Pre-Cal
 - Gen Chem
 
-> ⚠️ NOTE: This project is **strictly** for **STEM STUDENTS**
 
 ---
 
@@ -43,7 +44,7 @@ To install and use the notes:
 4. Select the extracted zip folder
 5. If prompted, select "Yes, I trust the author"
 
-And you're done! Enjoy and happy studying!!
+And you're done! Happy studying!!
 
 ---
 ## 🤝 Contact
