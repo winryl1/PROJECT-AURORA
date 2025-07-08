@@ -20,7 +20,7 @@ I wanted a space to share knowledge and help others (and myself) revise and stay
 ---
 
 ## 🖥️ Pre-requisites
-- Must have latest Obsidian version (https://obsidian.md/)
+- Must have latest [Obsidian version](https://obsidian.md/)
 
 ---
 
