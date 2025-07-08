@@ -10,6 +10,7 @@ Welcome to my personal collection of study notes! I'm a new student at [School N
 
 
 _Note: This project is only for STEM students_
+
 ---
 
 ## 📅 Update Schedule
