@@ -13,7 +13,7 @@ _Note: This project is only for STEM students_
 
 ---
 
-## 🧠 Why I Made This
+## 🤔 Why I Made This?
 
 I wanted a space to share knowledge and help others (and myself) revise and stay organized. Maybe these notes can help you too!
 
@@ -35,8 +35,8 @@ To install and use the notes:
 And you're done! Enjoy and happy studying!!
 
 ---
-## 🤝 Contributions
-You're welcome to submit your own notes or suggestions. Just email me at notegodz69xd@protonmail.com
+## 🤝 Contact
+If you have any questions, feel free to email me at notegodz69xd@protonmail.com or drop a message at my facebook! You are also welcome to contribute and submit your own notes or suggestions.
 
 ---
 
