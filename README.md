@@ -1,4 +1,5 @@
 ![Kurzgesagt_Quasar-643846-mobiles24](https://github.com/user-attachments/assets/8ba21bd2-17c0-47b0-9c79-92b31f0ee532)
+[![releases](https://img.shields.io/github/v/release/winryl1/PROJECT-AURORA?label=Latest%20Release)](https://github.com/winryl1/PROJECT-AURORA/releases)
 # 📚 PROJECT AURORA
 
 Welcome to my personal collection of study notes! I'm a new student and I’ll be updating this repo **weekly** with clear, concise notes. Feel free to browse, learn, and contribute!
@@ -26,7 +27,7 @@ I wanted a space to share knowledge and help others (and myself) revise and stay
 
 ## ✍🏻 Installation & Usage
 To install and use the notes:
-1. Download latest ZIP file from [![releases](https://img.shields.io/github/v/release/winryl1/PROJECT-AURORA?label=Latest%20Release)](https://github.com/winryl1/PROJECT-AURORA/releases)
+1. Download latest ZIP file from [releases](https://github.com/winryl1/PROJECT-AURORA/releases)
 2. Extract the ZIP file
 3. Open Obsidian and select "open folder as vault"
 4. Select the extracted zip folder
