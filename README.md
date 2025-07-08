@@ -13,11 +13,6 @@
 
 Welcome to my personal collection of study notes! I'm a new student and I’ll be updating this repo **weekly** with clear, concise notes. Feel free to browse, learn, and contribute!
 
----
-
-## ⚠️ NOTE
-This project is **strictly** for **STEM STUDENTS**
-
 
 ---
 
@@ -25,6 +20,8 @@ This project is **strictly** for **STEM STUDENTS**
 - Pre-Cal
 - Gen Chem
 
+⚠️ NOTE
+This project is **strictly** for **STEM STUDENTS**
 
 ---
 
