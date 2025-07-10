@@ -20,7 +20,10 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 
 ## 🔖 Subjects Covered
 - Pre-Cal
+- Gen Math
+- Gen Biology
 - Gen Chem
+- Basic Calculus
 - Earth-Sci
 - English Literature (21st Century)
 
