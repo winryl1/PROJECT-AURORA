@@ -47,7 +47,7 @@ To install and use the notes:
 2. Extract the ZIP file
 3. Open Obsidian and select "open folder as vault"
 4. Select the extracted zip folder
-5. If prompted, select "Yes, I trust the author"
+5. If prompted, select "Trust author and enable plugins"
 
 And you're done! Happy studying!!
 
