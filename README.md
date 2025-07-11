@@ -19,13 +19,14 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 ---
 
 ## 🔖 Subjects Covered
-Core Subjects:
+**Core Subjects:**
 - Gen Math
 - Philosophy
 - Earth-Sci
 - English Literature (21st Century)
 
-Specialized Subjects
+---
+**Specialized Subjects:**
 - Gen Biology
 - Basic Calculus
 - Gen Chem
