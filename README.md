@@ -19,13 +19,17 @@ Welcome to my personal collection of study notes! I'm a new student and I’ll b
 ---
 
 ## 🔖 Subjects Covered
-- Pre-Cal
+Core Subjects:
 - Gen Math
-- Gen Biology
-- Gen Chem
-- Basic Calculus
+- Philosophy
 - Earth-Sci
 - English Literature (21st Century)
+
+Specialized Subjects
+- Gen Biology
+- Basic Calculus
+- Gen Chem
+- Pre-Cal
 
 
 ---
